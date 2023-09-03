@@ -1,2 +1,2 @@
-# BetterCraftDataPack
-BetterCraft DataPack/更好的合成 数据包
+# 更好的合成数据包 适用于1.20.1
+更好的合成旨在帮助玩家合成和分解玩家的装备，如拆解下界疣块成9个下界疣等。
