@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:diorite",
+        "minecraft:andesite",
+        "minecraft:granite",
+        "minecraft:mossy_cobblestone",
+        "minecraft:mossy_stone_bricks"
+    ]
+}
