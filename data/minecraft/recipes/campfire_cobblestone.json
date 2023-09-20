@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:smelting",
+    "type": "minecraft:campfire_cooking",
     "category": "misc",
     "group": "stones",
     "ingredient": {
-        "items": "#bettercraft:stones"
+        "items": "#bettercraft:bettercraft_stones"
     },
     "result": "minecraft:cobblestone",
     "experience": 0.5,
